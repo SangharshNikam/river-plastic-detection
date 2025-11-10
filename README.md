@@ -44,14 +44,6 @@ river-water-plastic-detection/
 
 ---
 
-## ⚙️ Installation & Setup
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/YOUR-USERNAME/river-water-plastic-detection.git
-cd river-water-plastic-detection
-```
 
 ### 2️⃣ Setup Frontend
 
@@ -113,7 +105,7 @@ yolo detect predict model=best.pt source=your_image.jpg
 ## 🧑‍💻 Author
 
 **Sangharsh Nikam**
-📧 [Add your email or LinkedIn]
+📧 [nikam.sangharsh.anil@gmail.com]
 ⭐ Don’t forget to star this repo if you like it!
 
 ---
